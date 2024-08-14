@@ -68,7 +68,7 @@ ul li:first-child { border-radius: 5px 0 5px 5px;}
 ul li:last-child { border-radius: 0 5px 5px 5px;}
 
 .title{
-  background-color: #867bec;
+  background: linear-gradient(0.25turn, #3caedf, #7fe2e6, #13c6e6);
   color: #19191f;
   display: inline;
   border-radius: 5px;
@@ -78,7 +78,8 @@ ul li:last-child { border-radius: 0 5px 5px 5px;}
 }
 
 .vol__container {
-  background-color: rgb(101, 193, 221);
+  background: linear-gradient(0.25turn, #3caedf, #7fe2e6, #13c6e6);
+
   border-radius: 1rem;
   width: 15em;
   margin: auto;
@@ -108,7 +109,8 @@ ul li:last-child { border-radius: 0 5px 5px 5px;}
   gap: 2rem;
 }
 .btn{
-  background-color: blue;
+  background: linear-gradient(0.25turn, #0b0994, #2d1fe6, #2113e6);
+
   width: 7rem;
   height: 2rem;
   font-size: 16px;
